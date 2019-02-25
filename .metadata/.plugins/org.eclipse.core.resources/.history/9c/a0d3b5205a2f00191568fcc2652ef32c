@@ -1,0 +1,16 @@
+#Source Server Connection Details
+#Wed Feb 13 11:51:47 IST 2019
+S_ipAddress=localhost
+T_operatingType=Windows
+T_databaseType=mysql
+S_userName=postgres
+S_password=postgre
+S_databaseType=postgres
+T_password=root
+S_port=5432
+T_databaseName=cipatemp_db
+T_userName=root
+S_operatingType=Windows
+S_databaseName=murlipura
+T_ipAddress=localhost
+T_port=3306
